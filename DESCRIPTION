@@ -1,12 +1,12 @@
 Package: ip2whois
 Type: Package
-Title: Lookup WHOIS Information for a Particular Domain
+Title: Lookup 'WHOIS' Information for a Particular Domain
 Version: 1.0.0
 Authors@R: person(family = "IP2WHOIS",
                     role = c("aut", "cre"),
                     email = "support@ip2whois.com")
 Maintainer: IP2WHOIS <support@ip2whois.com>
-Description: A R package that enables user to easily implement the checking of WHOIS information for a particular domain. IP2WHOIS supports the query for 1113 TLDs and 634 ccTLDs.
+Description: Easily implement the checking of 'WHOIS' information for a particular domain. 'IP2WHOIS' supports the query for 1113 Top-level Domains(TLDs) and 634 Country Code Top-level Domains(ccTLDs).
     To get started with a free API key, you may sign up at here <https://www.ip2whois.com/register>.
 License: MIT + file LICENSE
 Encoding: UTF-8
